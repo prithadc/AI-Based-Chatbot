@@ -1,7 +1,3 @@
-Here’s a sample **README.md** file for your AI-powered chatbot project:
-
----
-
 # **AI-Powered Chatbot**
 
 An interactive AI chatbot powered by LangChain, OpenAI, and Weaviate, designed to demonstrate the capabilities of conversational AI using Retrieval-Augmented Generation (RAG) and Dockerized deployment.
@@ -150,9 +146,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 
-- **Developer**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **Developer**: prithadc
+- **Email**: prithadc.official@gmail.com
 
---- 
-
-Let me know if you'd like to customize it further!
